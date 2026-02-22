@@ -1,0 +1,7 @@
+{
+    "prCodeReviewer.githubToken": "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",
+    "prCodeReviewer.owner": "Anish-1910",
+    "prCodeReviewer.repo": "demo-test-repo",
+    "prCodeReviewer.webhookPort": 7890,
+    "prCodeReviewer.autoReviewOnPR": true
+}
